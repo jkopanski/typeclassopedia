@@ -21,4 +21,4 @@ instance Functor Pair where
 -- type Pred a = a -> Bool
 -- true [[a]]
 
-instance Functor 
+instance Functor
